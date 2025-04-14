@@ -228,7 +228,7 @@ If a boss throws 🤏 Pinch, they take 1 Loot Token from the other model’s bos
 > _When both bosses throw Pinch, as they just swap a cap and nothing happens. This is a place that needs improvement, but I haven't improved it yet._
 
 ## Boot Action
-A model may take a single Scoot Action as one of their two actions during their activation. The effect depends on what they are in contact with.
+When model takes a Boot Action, the effect depends on what they are in contact with.
 
 ## Put the Boot In
 If a model is in contact with a fallen enemy model, they take a Boot Action to "put the boot in": they take 1 Loot Token from the fallen model’s boss.
