@@ -40,9 +40,9 @@ Models are 28mm miniatures, and should be mounted on bases between 20mm and 40mm
 > _Details such as model scale, legal base sizes and so on are entirely up to you. I just provide some defaults._
 
 Models are defined by a set of Stats:
-* Cost: The cost, in points, to add this model to your gang. All models cost 5 points.
-* Move Dice: The dice you roll for this model when they make a Scoot Action. All have a Move of 3D6.
-* Toughness: This is the number an opponent has to roll to successfully do Big Damage to this model. All models have a Toughness of 3.
+* **Cost**: The cost, in points, to add this model to your gang. All models cost 5 points.
+* **Move Dice**: The dice you roll for this model when they make a Scoot Action. All have a Move of 3D6.
+* **Toughness**: This is the number an opponent has to roll to successfully do Big Damage to this model. All models have a Toughness of 3.
 
 > [!TIP]
 > _You might want to add other stats, and create different classes of model that have different stats than the defaults given above._
