@@ -18,9 +18,9 @@ If you do use the **Riot Dice** engine (or parts of it) in your game, ask that y
 I really hope you use this system, and make something cool and fun with it. If you use **Riot Dice** for anything, [let me know](https://planetsmashergames.com/discord/).
 
 
-# Riot Dice (System Reference Document) by Mike Hutchinson
+# Riot Dice by Mike Hutchinson
 
-The following text describes the **Riot Dice** game engine. 
+This is the Riot Dice System Reference Document. It describes the **Riot Dice** game engine. 
 
 > [!TIP]
 > _When you see a note formatted like this, this is an option that you can choose to use or ignore._
