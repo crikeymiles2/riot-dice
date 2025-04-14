@@ -29,7 +29,7 @@ This is the Riot Dice System Reference Document. It describes the **Riot Dice** 
 > _Only the text contained in this **Riot Dice** System Reference Document is covered by the CC license; the text of the rulebook of [SPACE GITS](https://planetsmashergames.com/space-gits) is not._
 
 > [!IMPORTANT]
-> _This SRC is written in a dry and technical manner. It also makes sure to only mention each rule once, and specifically in the spot that it most needs to be. For example, you'll find the Damage rule in the section describing "The Tower". This is an attempt to make each section of the rules modular, to increase the hackability._
+> _This SRD is written in a dry and technical manner. It also makes sure to only mention each rule once, and specifically in the spot that it most needs to be. For example, you'll find the Damage rule in the section describing "The Tower". This is an attempt to make each section of the rules modular, to increase the hackability._
 
 ## The Basics
 
