@@ -32,13 +32,18 @@ This is the Riot Dice System Reference Document. It describes the **Riot Dice** 
 
 ### Models
 * Models are 28mm miniatures, and should be mounted on bases between 20mm and 40mm.
+
+> [!TIP]
+> _Details such as model scale, legal base sizes and so on are entirely up to you. I just provide some defaults._
+ 
 * Models are defined by a set of Stats:
   * Cost: The cost, in points, to add this model to your gang. All models cost 5 points.
   * Move: The dice you roll for this model when they scoot. All have a Move of 3D6.
   * Toughness: This is the number an opponent has to roll to successfully do Big Damage to this model. All models have a Toughness of 3.
 
 > [!TIP]
-> _Details such as model scale, legal base sizes and so on are entirely up to you. I just provide some defaults._
+> _You might want to add other stats, and create different classes of model that have different stats than the defaults given above._
+
 
 ### Players
 Players are referred to as Bosses. A model's boss is the player that is controlling them.
