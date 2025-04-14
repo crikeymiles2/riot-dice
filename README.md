@@ -230,10 +230,10 @@ If a boss throws 🤏 Pinch, they take 1 Loot Token from the other model’s bos
 ## Boot Action
 When model takes a Boot Action, the effect depends on what they are in contact with.
 
-## Put the Boot In
+### Put the Boot In
 If a model is in contact with a fallen enemy model, they take a Boot Action to "put the boot in": they take 1 Loot Token from the fallen model’s boss.
 
-## Boot Up
+### Boot Up
 If a model is in contact with a fallen friendly model, they can boot them up: the booted model stands up. 
 
 When a model stands up, put it anywhere at least touching the area where they were just lying. If you place them into contact with an enemy, the current activation ends and a fight breaks out.
@@ -246,7 +246,7 @@ When it is your turn to activate, if you have nothing left that you can activate
 When you leg it: any of your models that are within 6” of an enemy model are replaced with a Loot Token from your stash, then remove the rest of your models and you are out of the game.
 
 ## Times Up
-When the 30 minute timer is up, models can no long take Boot Actions. (That means that fallen models stay down).
+When the 30 minute timer is up, models can no longer take Boot Actions. (That means that fallen models stay down).
 
 > [!TIP]
 > _When the timer is up, everyone get one more activation, and then the game ends._
