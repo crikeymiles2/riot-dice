@@ -26,10 +26,10 @@ This is the Riot Dice System Reference Document. It describes the **Riot Dice** 
 > _When you see a note formatted like this, this is an option that you can choose to use or ignore._
 
 > [!WARNING]
-> Only the text contained in this **Riot Dice** System Reference Document is covered by the CC license; the text of the rulebook of [SPACE GITS](https://planetsmashergames.com/space-gits) is not.
+> _Only the text contained in this **Riot Dice** System Reference Document is covered by the CC license; the text of the rulebook of [SPACE GITS](https://planetsmashergames.com/space-gits) is not._
 
 > [!IMPORTANT]
-> This SRC is written in a dry and technical manner. It also makes sure to only mention each rule once, and specifically in the spot that it most needs to be. For example, you'll find the Damage rule in the section describing "The Tower". This is an attempt to make each section of the rules modular, to increase the hackability.
+> _This SRC is written in a dry and technical manner. It also makes sure to only mention each rule once, and specifically in the spot that it most needs to be. For example, you'll find the Damage rule in the section describing "The Tower". This is an attempt to make each section of the rules modular, to increase the hackability._
 
 ## The Basics
 
@@ -47,9 +47,11 @@ Models are defined by a set of Stats:
 > [!TIP]
 > _You might want to add other stats, and create different classes of model that have different stats than the defaults given above._
 
-
 ### Players
 Players are referred to as Bosses. A model's boss is the player that is controlling them.
+
+### Measuring
+When measuring and checking lines between dice and models, you can measure from anywhere on the models' bases to anywhere on the dice. If it grazes either, it is in. If you are using a vehicle without a base, measure from the hull. You can premeasure during your activation.
 
 ## The Tower
 Each model has a personal dice tower of dice. 
@@ -85,22 +87,32 @@ When one of your models gets damaged, for each point of damage received, your op
 > _The tower in SPACE GITS represents drunkenness and bruises. Your tower could represent anything you like: fear, stress, excitement, arcane energy, loss of control, heat. You could even change the tower to work in reverse: with each model starting with a tower of whatever number of dice and wanting to keep them for whatever reason; maybe they provide power, boost stats, or are the victory system (like some kind of egg-and-spoon race...)._
 
 ## Weapons
+Weapon are either Shooting Weapons, and used during Shoot Actions, or Fighting Weapons, used during Fights.
 
-<< TO DO >>
+### Shooting Weapons
+Shooting Weapons have the following stats:
 
-## Measuring
-When measuring and checking lines between dice and models, you can measure from anywhere on the models' bases to anywhere on the dice. If it grazes either, it is in. If you are using a vehicle without a base, measure from the hull. You can premeasure during your activation.
+* **Range**: The maximum distance a bullet from this weapon will travel.
+* **Bullet Dice**: The dice rolled when shooting with this weapon.
+* **Weak/Big Damage**: The damage values that apply when this weapon hits another model.
+
+### Fighting Weapons
+
+Fighting Weapons have the following stats:
+
+* **Thump Dice**: The dice rolled when thumping with this weapon.
+* **Weak/Big Damage**: The damage values that apply when thumping another model with this weapon.
 
 ## Set Up
 
 ### Table
-Clear a play area roughly 2’x2’ and set up plenty of terrain. 
+Clear a play area roughly 3-foot by 3-foot and set up plenty of terrain. 
 
 > [!TIP]
 > _The table setup is something that you can freely experiment with, and potentially you wlil want to vary from scenario to scenario._
 
 ### Loot Tokens
-Each of you drops 6 Loot Tokens onto the table from a decent height. 
+Each boss drops 6 Loot Tokens onto the table from a decent height. 
 
 Put one more Loot Token in the middle as a tie-breaker. 
 
@@ -121,7 +133,7 @@ The First Player activates the first model.
 Once all the models are deployed, start a timer for 30 minutes and start the game. 
 
 > [!TIP]
-> _Varying the timer length, or remove it, to change the length and time-pressure of the game._
+> _Varying the timer length, or remove it, to change the length or remove the time pressure of the game._
 
 
 ## Activating Models
@@ -135,10 +147,12 @@ When you activate a model, they do one or two different actions out of: Shoot, S
 
 You don’t have to activate your models in rounds, if you want to keep activating the same model turn after turn: that is allowed.
 
-## Scoot Action
-A model may take a single Scoot Action as one of their two actions during their activation.
+> [!TIP]
+> _Pretty much every word in this section could be modified without breaking the game engine._
 
-To scoot a model, roll their Move Dice into the play area.
+
+## Scoot Action
+When model takes a Scoot Action, roll their Move Dice into the play area.
 
 > [!TIP]
 > _You can vary the number and type of dice thrown as Move Dice._
@@ -165,14 +179,12 @@ As you move the model, make sure the little tower of dice is touching them at al
 ## Looting
 Each boss has a collection of Loot Tokens, called their Stash.
 
-If you bump into a Loot Token while moving, you stop and pick it up.
+If you bump into a Loot Token while moving, you stop moving and pick it up.
 
 Loot Tokens that you pick up go into your Stash.
 
 ## Shoot Action
-A model may take a single Shoot Action as one of their two actions during their activation.
-
-To shoot, gather a number and type of bullet dice indicated by the shooting weapon.
+When model takes a Shoot Action, it selects one of its shooting weapons and gathers a number and type of bullet dice indicated by the shooting weapon's stats.
 
 Roll your bullet dice into the play area. 
 
