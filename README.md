@@ -152,7 +152,7 @@ You don’t have to activate your models in rounds, if you want to keep activati
 
 
 ## Scoot Action
-When model takes a Scoot Action, roll their Move Dice into the play area.
+When a model takes a Scoot Action, roll their Move Dice into the play area.
 
 > [!TIP]
 > _You can vary the number and type of dice thrown as Move Dice._
@@ -184,7 +184,7 @@ If you bump into a Loot Token while moving, you stop moving and pick it up.
 Loot Tokens that you pick up go into your Stash.
 
 ## Shoot Action
-When model takes a Shoot Action, it selects one of its shooting weapons and gathers a number and type of bullet dice indicated by the shooting weapon's stats.
+When a model takes a Shoot Action, it selects one of its shooting weapons and gathers a number and type of bullet dice indicated by the shooting weapon's stats.
 
 Roll your bullet dice into the play area. 
 
@@ -228,7 +228,7 @@ If a boss throws 🤏 Pinch, they take 1 Loot Token from the other model’s bos
 > _When both bosses throw Pinch, as they just swap a cap and nothing happens. This is a place that needs improvement, but I haven't improved it yet._
 
 ## Boot Action
-When model takes a Boot Action, the effect depends on what they are in contact with.
+When a model takes a Boot Action, the effect depends on what they are in contact with.
 
 ### Put the Boot In
 If a model is in contact with a fallen enemy model, they take a Boot Action to "put the boot in": they take 1 Loot Token from the fallen model’s boss.
